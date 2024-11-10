@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "manchester",
+      "image": "https://images.pexels.com/photos/807598/pexels-photo-807598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 45,
+      "id": 8
+    },
+    {
+      "name": "aloevera",
+      "image": "https://images.pexels.com/photos/1549194/pexels-photo-1549194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 45,
+      "id": 9
+    },
+    {
+      "name": "Flower4",
+      "image": "https://images.pexels.com/photos/133079/pexels-photo-133079.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "price": 23,
+      "id": 10
     }
   ]
 }
